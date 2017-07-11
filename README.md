@@ -1,2 +1,2 @@
-# -Forza-4-game
-, based on the Client-Server/Peer2Peer architecture
+# Forza-4-game
+Based on the Client-Server/Peer2Peer architecture
